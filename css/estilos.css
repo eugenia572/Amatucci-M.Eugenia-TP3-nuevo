@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body {
+  color: #333;
+}
+
+
+header {
+  background-color: #FFFFFF;
+  padding: 10px 20px;
+  text-align: left; 
+}
+
+.logo {
+  height: 30px;
+}
+
+.nav-bar {
+  background-color: #C90D1F;
+  padding: 12px 30px;
+  border-radius: 5px;
+    margin-left: 70%;
+}
+
+nav {
+ text-align: right;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+nav ul {
+  margin:0;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin-right: 20px;
+  font-size: 16px;
+}
+
+main {
+  padding: 20px;
+  background-color: #F9F6F3;
+}
+
+
+.bienvenida {
+  max-width: 700px;
+  color: #D90000;
+  min-width: 300px;
+  padding: 20px;
+}
+
+.bienvenida p {
+  font-size: 16px;
+  color: black;
+}
+
+
+.foto-paulina {
+  border-radius: 10px;
+  float: right;
+  width: 250px;
+  margin-left: 1000px;
+  padding: 40px;
+}
+
+.foto {
+   float: left;
+  width: 500px;
+  margin-right: 20px;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.foto1 {
+  float: left;
+  width: 320px;
+  margin-right: 60px;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+footer {
+  background-color: #B00000;
+  padding:20px;
+  height: 80px;
+}
+
+.logouces
+{
+  float: left;
+   margin-top:-50px;
+}
+
+
+#minombre
+{
+  float: right;
+  padding-right: 20px;
+  font-size: 20px;
+ }
+
+
+.div1imagen
+{
+  width: 35% ;
+  height:500px ;
+  float: right;
+  padding: 25px;
+  margin-bottom: 30px;"}
+
+
+
+.div2texto
+{    float: left;
+  width: 300px; 
+  margin-right: 20px;
+  margin-bottom: 10px
+}
